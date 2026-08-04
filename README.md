@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gaboose
+# Hi, I'm Gaboose
 
 ### Help Desk Technician | Aspiring Cybersecurity Architect
 
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/CompTIA-A%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+ Badge" />
 </p>
 
-* CompTIA A+
 
 ## 🛠️ Skills
 
