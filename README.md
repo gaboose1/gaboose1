@@ -8,13 +8,13 @@
 </p>
 
 ## 🛠️ Skills
-
+<p> <img src="https://img.shields.io/badge/CompTIA-A%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+ Badge" /> </p>
 * IT Support
 
 ## 📫 Contact
-
+<p align="left"> <a href="mailto:maankasad98@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/> </a> &nbsp;&nbsp; <a href="https://x.com/ibngaboose"> <img src="https://cdn.simpleicons.org/x" height="35" alt="X (Twitter)"/> </a> </p>
 📧 **Email:** [maankasad98@gmail.com](mailto:maankasad98@gmail.com)
-
+X: @ibngaboose
 ---
 
 
