@@ -28,7 +28,7 @@ Heyy I'm Gaboose, a self-study student. I am enthusiastic about networking and c
 * Problem solving
 * User support
 
-## 📫 Contact with me
+## Connect with me
 
 <p align="left">
   <a href="maankasad98@gmail.com">
