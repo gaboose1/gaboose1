@@ -27,7 +27,7 @@
 ### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,vscode" />
 </p>
 
 ---
