@@ -1,4 +1,5 @@
-# Hi, I'm Gaboose
+Hi 👋, I'm <span style="color:green">Gaboose</span>
+
 
 ### Help Desk Technician | Aspiring Cybersecurity Architect
 
