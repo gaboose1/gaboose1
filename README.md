@@ -24,12 +24,13 @@
   <a href="mailto:[maankasad98@gmail.com](mailto:maankasad98@gmail.com)">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/> [maankasad98@gmail.com](mailto:maankasad98@gmail.com)
   </a>
-    
+</p>
+
+<p align="left">
   <a href="https://x.com/ibngaboose">
     <img src="https://cdn.simpleicons.org/x" height="35" alt="X"/> ibngaboose
   </a>
 </p>
-
 
 <!--
 **gaboose1/gaboose1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
