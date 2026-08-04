@@ -2,17 +2,10 @@
 
 ### Help Desk Technician | Aspiring Cybersecurity Architect
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gaboose1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Help+Desk+Technician;Currently+Learning+CompTIA+A%2B;Future+Cybersecurity+Architect" alt="Typing SVG" />
 </p>
-
-## 🌱 Currently Learning
-
-* CompTIA A+
 
 ## 🛠️ Skills
 
@@ -24,13 +17,6 @@
 
 ---
 
-### 🧰 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,vscode" />
-</p>
-
----
 
 
 
