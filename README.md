@@ -21,7 +21,7 @@
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:[maankasad98@gmail.com](mailto:maankasad98@gmail.com)">
+  <a href="maankasad98@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/> [maankasad98@gmail.com](mailto:maankasad98@gmail.com)
   </a>
 </p>
