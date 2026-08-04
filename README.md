@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gaboose
+# Hi, I'm Gaboose
 
 ### Help Desk Technician | Aspiring Cybersecurity Architect
 
@@ -27,7 +27,7 @@
 ### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
 </p>
 
 ---
